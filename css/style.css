@@ -655,7 +655,8 @@ h2.resp-accordion {
 /*-- testimonial --*/
 .testimonial{
     background:url(../images/1.jpg)no-repeat center; 
-	margin-top:5em;
+	  /* margin-top:5em; */
+    height:500px;
 }   
 .testimonial-grids { 
 	margin: 0 auto;
