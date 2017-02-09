@@ -6230,9 +6230,9 @@ button.close {
 }
 .carousel-indicators li {
   display: inline-block;
-  width: 10px;
-  height: 10px;
-  margin: 1px;
+  width: 13px;
+  height: 13px;
+  margin: 3px;
   text-indent: -999px;
   cursor: pointer;
   background-color: #000 \9;
@@ -6241,8 +6241,8 @@ button.close {
   border-radius: 10px;
 }
 .carousel-indicators .active {
-  width: 12px;
-  height: 12px;
+  width: 16px;
+  height: 16px;
   margin: 0;
   background-color: #fff;
 }
