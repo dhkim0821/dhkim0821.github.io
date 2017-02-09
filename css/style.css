@@ -713,7 +713,8 @@ h2.resp-accordion {
 	height: 350px;
 }
 .carousel-indicators {
-    bottom: -10px;
+    /* bottom: -10px; */
+    bottom: -2em;
 } 
 /*-- //testimonial --*/ 
 /*-- contact --*/
