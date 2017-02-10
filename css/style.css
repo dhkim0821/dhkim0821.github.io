@@ -294,7 +294,7 @@ p {
 .welcome-grids {
     border: 2px solid #333;
     padding: 2.5em 2em;
-    width: 21%;
+    width: 23%;
     position: relative;
     transition: .5s all;
 	-webkit-transition: .5s all;
@@ -317,6 +317,66 @@ p {
     text-align: justify;
 	margin-top: 1em;
 }
+.welcome-grids-2 {
+    border: 2px solid #333;
+    padding: 2.5em 2em;
+    width: 35%;
+    position: relative;
+    transition: .5s all;
+	  -webkit-transition: .5s all;
+	  -o-transition: .5s all;
+	  -moz-transition: .5s all;
+	  -ms-transition: .5s all;
+    overflow: hidden;
+}
+.welcome-grids-2.welcome-mdl {
+    margin: 0 4em;
+}
+.welcome-grids-2.welcome-mdl1 {
+    margin-right: 3.7em;
+}
+.welcome-grids-2 h5 {
+    font-size: 1.3em;
+    color: #F44336;
+}
+.welcome-grids-2 p.text {
+    text-align: justify;
+	  margin-top: 1em;
+}
+.welcome-grids-2:hover div.welcome-w3lsicon {
+	  left:-100%;
+}
+
+.welcome-grids-3 {
+    border: 2px solid #333;
+    padding: 2.5em 2em;
+    width: 26%;
+    position: relative;
+    transition: .5s all;
+	  -webkit-transition: .5s all;
+	  -o-transition: .5s all;
+	  -moz-transition: .5s all;
+	  -ms-transition: .5s all;
+    overflow: hidden;
+}
+.welcome-grids-3.welcome-mdl {
+    margin: 0 4em;
+}
+.welcome-grids-3.welcome-mdl1 {
+    margin-right: 3.7em;
+}
+.welcome-grids-3 h5 {
+    font-size: 1.3em;
+    color: #F44336;
+}
+.welcome-grids-3 p.text {
+    text-align: justify;
+	  margin-top: 1em;
+}
+.welcome-grids-3:hover div.welcome-w3lsicon {
+	  left:-100%;
+}
+
 .welcome-w3lsicon {
     position: absolute;
     top: 0;
