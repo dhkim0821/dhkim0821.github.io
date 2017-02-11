@@ -133,7 +133,20 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<h4>Valkyrie</h4>
 					<p>NASA's humanoid robot designed for the tasks in universe </p>
 				</div>	
-	
+
+	      <div class="col-md-3 team-grids wow zoomIn animated" data-wow-delay=".5s">
+					  <img class="img-responsive" src="images/valkyrie_snap.jpg" alt="">
+					  <div class="agileits-captn"> 
+						    <div class="social-icons"> 
+							      <ul>
+								        <li><a href="optimal_control.html" class="fa fa-google-plus icon-border googleplus"> </a></li> 
+							      </ul>  
+						    </div>
+					  </div>
+					  <h4>Optimal Control</h4>
+					  <p> Linear Quadratic Regulator to Model Predictive Control </p>
+				</div>	
+
 				<div class="clearfix"> </div>
 			</div> 
 		</div>
@@ -219,42 +232,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 	</div>
 	<!-- //copy right -->
-	<!-- animation --> 
-	<script src="js/wow.min.js"></script>
-	<script>
-		 new WOW().init();
-	</script>
-	<!-- //animation --> 
-	<!-- start-smooth-scrolling -->
-	<script type="text/javascript" src="js/move-top.js"></script>
-	<script type="text/javascript" src="js/easing.js"></script>	
-	<script type="text/javascript">
-			jQuery(document).ready(function($) {
-				$(".scroll").click(function(event){		
-					event.preventDefault();
-					$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
-				});
-			});
-	</script>
-	<!-- //end-smooth-scrolling -->
-	<!-- smooth-scrolling-of-move-up -->
-	<script type="text/javascript">
-		$(document).ready(function() {
-			/*
-			var defaults = {
-				containerID: 'toTop', // fading element id
-				containerHoverID: 'toTopHover', // fading element hover id
-				scrollSpeed: 1200,
-				easingType: 'linear' 
-			};
-			*/
-			$().UItoTop({ easingType: 'easeOutQuart' });
-		});
-	</script>
-	<!-- //smooth-scrolling-of-move-up -->
-	<!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="js/bootstrap.js"></script>
+	<!-- tail (animation, scroll...) -->
+  <script src="tail.js"></script>
 </body>
 </html>
