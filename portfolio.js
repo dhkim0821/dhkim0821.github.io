@@ -4,7 +4,7 @@ document.write('\
 			    <h3 class="w3layouts-title wow fadeInDown animated" data-wow-delay=".5s"> Portfolio </h3>  \
 			    <div class="team-info">\
 				      <div class="col-md-3 team-grids wow zoomIn animated" data-wow-delay=".5s"> \
-					        <img class="img-responsive" src="images/hume_snap.png" alt=""> \
+					        <img class="img-thumbnail" src="images/hume_snap.png" alt=""> \
 					        <div class="agileits-captn"> \
 						          <div class="social-icons"> \
 							            <ul> \
@@ -15,7 +15,7 @@ document.write('\
 					<h4>Hume</h4>\
 					<p>Point-foot biped robot with Series Elastic Actuator</p> \
 				</div><div class="col-md-3 team-grids wow zoomIn animated" data-wow-delay=".5s">\
-					<img class="img-responsive" src="images/nao_snap.png" alt="">\
+					<img class="img-thumbnail" src="images/nao_snap.png" alt="">\
 					<div class="agileits-captn"> \
 						<div class="social-icons"> \
 							<ul>\
@@ -27,7 +27,7 @@ document.write('\
 					<p>Standard platform of robot soccer competition</p>\
 				</div>\
 				<div class="col-md-3 team-grids wow zoomIn animated" data-wow-delay=".5s">\
-					<img class="img-responsive" src="images/valkyrie_snap.jpg" alt="">\
+					<img class="img-thumbnail" src="images/valkyrie_snap.jpg" alt="">\
 					<div class="agileits-captn"> \
 						<div class="social-icons"> \
 							<ul>\
@@ -40,7 +40,7 @@ document.write('\
 				</div>\
 \
 	      <div class="col-md-3 team-grids wow zoomIn animated" data-wow-delay=".5s">\
-					  <img class="img-responsive" src="images/ctrl_snap.jpg" alt="">\
+					  <img class="img-thumbnail" src="images/ctrl_snap.jpg" alt="" >\
 					  <div class="agileits-captn"> \
 						    <div class="social-icons"> \
 							      <ul>\
