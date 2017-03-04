@@ -11,7 +11,9 @@ document.write('\
 					<div class="col-md-8 col-sm-8 about-w3ls-text wow zoomInRight animated" data-wow-delay=".9s"> \
 \
 <!-- Change This Sentence --> \
-<p>My research interests include agile locomotion, state estimation, and whole body control and optimal control of legged systems with real-time constraints. I received a National Science and Technology fellowship with an academic Distinguished Achievement Award from KAIST.</p> \
+<p>My research interests include agile locomotion, state estimation, and whole body control and optimal control of legged systems with real-time constraints.<\p>\
+\
+<p>To build a more robust and generic locomotion controller, I also study how to employ machine learning techniques such as Reinforcement Learning or Deep Neural Network to legged systems. </p> \
 <!-- //Change This Sentence --> \
 \
 					</div> \
