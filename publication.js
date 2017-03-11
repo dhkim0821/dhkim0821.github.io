@@ -7,13 +7,14 @@ document.write('\
 				      <!-- Indicators --> \
 				      <ol class="carousel-indicators"> \
 					        <li data-target="#myCarousel" data-slide-to="0" class="active"></li> <!-- TRO Hume --> \
-					        <li data-target="#myCarousel" data-slide-to="1"></li> <!-- Humanoid 2016 NAO --> \
-                  <li data-target="#myCarousel" data-slide-to="2"></li> <!-- Humanoid 2015 Hume --> \
-                  <li data-target="#myCarousel" data-slide-to="3"></li> <!-- ICARCV 2014 Hume --> \
-                  <li data-target="#myCarousel" data-slide-to="4"></li> <!-- DSCC 2014 Hume --> \
-                  <li data-target="#myCarousel" data-slide-to="5"></li> <!-- SNU Bio --> \
-                  <li data-target="#myCarousel" data-slide-to="6"></li> <!-- Dynamic Walking 2015 --> \
-                  <li data-target="#myCarousel" data-slide-to="7"></li> <!-- Dynamic Walking 2014 --> \
+					        <li data-target="#myCarousel" data-slide-to="1"></li> <!-- arXiv Hume --> \
+					        <li data-target="#myCarousel" data-slide-to="2"></li> <!-- Humanoid 2016 NAO --> \
+                  <li data-target="#myCarousel" data-slide-to="3"></li> <!-- Humanoid 2015 Hume --> \
+                  <li data-target="#myCarousel" data-slide-to="4"></li> <!-- ICARCV 2014 Hume --> \
+                  <li data-target="#myCarousel" data-slide-to="5"></li> <!-- DSCC 2014 Hume --> \
+                  <li data-target="#myCarousel" data-slide-to="6"></li> <!-- SNU Bio --> \
+                  <li data-target="#myCarousel" data-slide-to="7"></li> <!-- Dynamic Walking 2015 --> \
+                  <li data-target="#myCarousel" data-slide-to="8"></li> <!-- Dynamic Walking 2014 --> \
 				      </ol> \
 				      <div class="carousel-inner" role="listbox" style=" width:100%; height: 300px !important;"> \
                   <!-- <div class="carousel-inner" role="listbox"> --> \
@@ -22,7 +23,7 @@ document.write('\
 						          <div class="carousel-caption"> \
 							            <div class="testimonial-grids"> \
 								              <div class="testimonial-left"> \
-									                <img src="images/tro.jpg" alt="" /> \
+									                <img src="images/paper_snap/tro.jpg" alt="" /> \
 								              </div> \
 								              <div class="testimonial-right"> \
 									                <h5>Stabilizing Series-Elastic Point-Foot Bipeds Using Whole-Body Operational Space Control</h5> \
@@ -34,12 +35,29 @@ document.write('\
 						          </div> \
 					        </div> \
                   <!-- //TRO --> \
+                  <!-- acXive Hume --> \
+					        <div class="item agileits-w3layouts"> \
+						          <div class="carousel-caption"> \
+							            <div class="testimonial-grids"> \
+								              <div class="testimonial-left"> \
+									                <img src="images/paper_snap/arxiv_hume_snap.png" alt="" /> \
+								              </div> \
+								              <div class="testimonial-right"> \
+									                <h5>Assessing Whole-Body Operational Space Control in a Point-Foot Series Elastic Biped: Balance on Split Terrain and Undirected Walking</h5> \
+                                  <p> Donghyun Kim, Ye Zhao, Gray Thomas, Luis Sentis, in arXiv, 2015. <a href="papers/arxiv_wbosc_hume.pdf"> \[Paper]</a> </p> \
+                                  <p> 1) a bipedal robot infrastructure based on whole-body operational space control, 2) sensor-based feedback controllers for internal force regulation during balancing, 3) a new online trajectory generation algorithm for undirected walking, and 4) assessing the performance of WBOSC for balancing on a high pitch split terrain and for undirected walking.  </p> \
+								              </div> \
+								              <div class="clearfix"> </div>\
+							            </div> \
+						          </div> \
+					        </div> \
+                  <!-- //arXiv Hume --> \
                   <!-- Humanoid 2016 NAO --> \
 					        <div class="item agileits-w3layouts"> \
 						          <div class="carousel-caption"> \
 							            <div class="testimonial-grids"> \
 								              <div class="testimonial-left"> \
-									                <img src="images/humanoid_2016_nao_snap.png" alt="" /> \
+									                <img src="images/paper_snap/humanoid_2016_nao_snap.png" alt="" /> \
 								              </div> \
 								              <div class="testimonial-right"> \
 									                <h5>Dynamic Behaviors on the NAO Robot With Closed-Loop Whole Body Operational Space Control</h5> \
@@ -56,7 +74,7 @@ document.write('\
 						          <div class="carousel-caption"> \
 							            <div class="testimonial-grids"> \
 								              <div class="testimonial-left"> \
-									                <img src="images/humanoid_2015_hume_snap.png" alt="" /> \
+									                <img src="images/paper_snap/humanoid_2015_hume_snap.png" alt="" /> \
 								              </div> \
 								              <div class="testimonial-right"> \
 									                <h5>A Method for Dynamically Balancing a Point Foot Robot</h5> \
@@ -73,7 +91,7 @@ document.write('\
 						          <div class="carousel-caption"> \
 							            <div class="testimonial-grids"> \
 								              <div class="testimonial-left"> \
-									                <img src="images/icarcv_2014_hume_snap.png" alt="" /> \
+									                <img src="images/paper_snap/icarcv_2014_hume_snap.png" alt="" /> \
 								              </div> \
 								              <div class="testimonial-right"> \
 									                <h5>Continuous Cyclic Stepping on 3D Point-Foot Biped Robots Via Constant Time to Velocity Reversal</h5> \
@@ -90,7 +108,7 @@ document.write('\
 						          <div class="carousel-caption"> \
 							            <div class="testimonial-grids"> \
 								              <div class="testimonial-left"> \
-									                <img src="images/dscc_2014_hume_snap.png" alt="" /> \
+									                <img src="images/paper_snap/dscc_2014_hume_snap.png" alt="" /> \
 								              </div> \
 								              <div class="testimonial-right"> \
 									                <h5>Empirical Modifications to a Phase Space Planner Which Compensates for Low Stiffness Actuation in a Planar, Point-foot, Biped Robot</h5> \
@@ -108,7 +126,7 @@ document.write('\
 						          <div class="carousel-caption"> \
 							            <div class="testimonial-grids"> \
 								              <div class="testimonial-left"> \
-									                <img src="images/snu_kin_snap.png" alt="" /> \
+									                <img src="images/paper_snap/snu_kin_snap.png" alt="" /> \
 								              </div> \
 								              <div class="testimonial-right"> \
 									                <h5>Kinematic feedback control laws for generating natural arm movements</h5> \
@@ -125,7 +143,7 @@ document.write('\
 						          <div class="carousel-caption"> \
 							            <div class="testimonial-grids"> \
 								              <div class="testimonial-left"> \
-									                <img src="images/dw2015_snap.png" alt="" /> \
+									                <img src="images/paper_snap/dw2015_snap.png" alt="" /> \
 								              </div> \
 								              <div class="testimonial-right"> \
 									                <h5>Whole-Body Opertation Space Control: Undirectional Walking of a Point-Foot Series Elastic Biped</h5> \
@@ -143,7 +161,7 @@ document.write('\
 						          <div class="carousel-caption"> \
 							            <div class="testimonial-grids"> \
 								              <div class="testimonial-left"> \
-									                <img src="images/dscc_2014_hume_snap.png" alt="" /> \
+									                <img src="images/paper_snap/dscc_2014_hume_snap.png" alt="" /> \
 								              </div> \
 								              <div class="testimonial-right"> \
 									                <h5>Towards Agility in Compliant Point-Foot Bipeds</h5> \
