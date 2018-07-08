@@ -13,7 +13,7 @@ document.write(' \
 							<li><a href="#about" class="scroll">About</a></li>  \
 							<li><a href="#publication" class="scroll">Publication</a></li>  \
 							<li><a href="#portfolio" class="scroll">Portfolio</a></li> \
-							<li><a href="#robots" class="scroll">Robots</a></li> \
+							<li><a href="#news" class="scroll">News</a></li> \
 							<li><a href="#contact" class="scroll">Contact</a></li> \
 						</ul>	\
 						<div class="clearfix"> </div> \

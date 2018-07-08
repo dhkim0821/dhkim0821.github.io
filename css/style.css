@@ -589,7 +589,7 @@ p {
 	opacity: 1;
 }
 .team-grids p { 
-    margin: 1em 1em 0 1em; 
+    margin: 1em 1em 2em 1em; 
 } 
 /*-- //team --*/
 /*-- portfolio --*/
@@ -712,6 +712,7 @@ h2.resp-accordion {
 	-ms-transform: translate3d(0,0,0);
 }
 /*-- //portfolio --*/
+
 /*-- testimonial --*/
 .testimonial{
     background:url(../images/1.jpg)no-repeat center; 
@@ -723,15 +724,15 @@ h2.resp-accordion {
 	width: 80%;
 }
 .testimonial-left {
-    width: 14%;
+    width: 5%;
     float: left;
-    border:2px solid #F44336;
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
-	-o-border-radius: 50%;
-	-ms-border-radius: 50%;
+    border:0.1px solid #F44336;
+	/*-webkit-border-radius: 50%;*/
+	/*-moz-border-radius: 50%;*/
+	/*-o-border-radius: 50%;*/
+	/*-ms-border-radius: 50%;*/
     border-radius: 50%;
-    padding: 5px;
+    /*padding: 5px;*/
 }
 .testimonial-left img{
 	-webkit-border-radius: 50%;
@@ -743,18 +744,25 @@ h2.resp-accordion {
 }
 .testimonial-right{
 	float: left;
-	width: 65%;
+	width: 77%;
 	margin: -0.1em 0 0 2em;
     text-align: left;
 }
 .testimonial-right h5 {
     color: #00b6f3;
-    margin: 0;
-    font-size: 2em; 
+	margin: 0.0em 0.0em 0.5em 0; 
+    font-size: 1.9em; 
 }
+.testimonial-right h4 {
+	color: #ffb200ff;
+	margin: 0.3em 0.0em 0.5em 0; 
+    font-size: 1.3em; 
+}
+
 .testimonial-right p{
 	color: #fff; 
-	margin: 1.5em 0 0 0; 
+	/*margin: 1.5em 0 0 0; */
+	margin: 0.0em 0.0em 0.1em 0; 
 }
 .testimonial-right p span{
 	font-size: 2em;
@@ -777,6 +785,63 @@ h2.resp-accordion {
     /* bottom: -2em; */
 } 
 /*-- //testimonial --*/ 
+/*-- publication --*/
+.publication{
+    background:url(../images/mercury.png)no-repeat center; 
+	  margin-top:5em;
+    height:1350px;
+}   
+.publication-grids { 
+	margin: 0 auto;
+	width: 80%;
+}
+.publication-left {
+    width: 5%;
+    float: left;
+    border:0.1px solid #F44336;
+	/*-webkit-border-radius: 50%;*/
+	/*-moz-border-radius: 50%;*/
+	/*-o-border-radius: 50%;*/
+	/*-ms-border-radius: 50%;*/
+    border-radius: 50%;
+    /*padding: 5px;*/
+}
+.publication-left img{
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+	-ms-border-radius: 50%;
+    border-radius: 50%;
+	width:100%;
+}
+.publication-right{
+	float: left;
+	width: 77%;
+	margin: -0.1em 0 0 2em;
+    text-align: left;
+}
+.publication-right h5 {
+    color: #00b6f3;
+	margin: 0.0em 0.0em 0.5em 0; 
+    font-size: 1.9em; 
+}
+.publication-right h4 {
+	color: #c9c9c9ff;
+	margin: 0.8em 0.0em 0.1em 0; 
+    font-size: 1.3em; 
+}
+
+.publication-right p{
+	color: #c9c9c9ff 
+	/*margin: 1.5em 0 0 0; */
+	margin: 0.1em 0.0em 1.0em 0; 
+}
+.publication-right p span{
+	font-size: 2em;
+	line-height: .1em;
+	vertical-align: middle;
+}
+/*-- //publication --*/ 
 /*-- contact --*/
 .agileits-w3layouts-map {
     margin:5em 0 0;
@@ -982,7 +1047,7 @@ input.email {
 h3.w3layouts-title {
     font-size: 3.6em; 
 }
-.welcome, .about, .team, .testimonials, .gallery, .contact {
+.welcome, .about, .team, .publication, .testimonials, .gallery, .contact {
     padding: 4em 0;
 }
 .team-grids { 
@@ -1262,7 +1327,7 @@ h3.w3layouts-title {
 .team-grids p {
     margin: 0.3em 0.5em 0;
 }
-}
+
 @media(max-width:600px){
 h3.w3layouts-title {
     font-size: 2.7em;
@@ -1286,13 +1351,13 @@ h3.w3layouts-title {
     margin: 0 1em 0;
 }
 .testimonial { 
-    margin-top: 2em;
+    margin-top: 1em;
 }
 .testimonial-right h5 { 
-    font-size: 1.5em;
+    font-size: 1.0em;
 }
 .testimonial-right p {       
-    margin: 1em 0 0 0;
+    margin: 0;
 }
 .team-grids:hover .agileits-captn {
     top: 49%;
