@@ -3,7 +3,7 @@ document.write('\
     <!-- container -->\
     <div class="container">\
     <h3 class="w3layouts-title wow fadeInDown animated" data-wow-delay=".5s">Publication</h3> \
-    <div class="carousel-inner" role="listbox" style=" width:100%; height: 1500px !important;"> \
+    <div class="carousel-inner" role="listbox" style=" width:100%; height: 100% !important;"> \
     <div class="publication-left"> </div> \
     <div class="publication-right"> \
     <h5>Journal</h5> \

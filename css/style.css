@@ -789,7 +789,8 @@ h2.resp-accordion {
 .publication{
     background:url(../images/mercury.png) center; 
 	  margin-top:5em;
-    height:1550px;
+    /*height:1550px;*/
+    height:100%;
 }   
 .publication-grids { 
 	margin: 0 auto;
