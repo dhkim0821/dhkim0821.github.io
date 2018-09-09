@@ -787,9 +787,9 @@ h2.resp-accordion {
 /*-- //testimonial --*/ 
 /*-- publication --*/
 .publication{
-    background:url(../images/mercury.png)no-repeat center; 
+    background:url(../images/mercury.png) center; 
 	  margin-top:5em;
-    height:1350px;
+    height:1550px;
 }   
 .publication-grids { 
 	margin: 0 auto;
