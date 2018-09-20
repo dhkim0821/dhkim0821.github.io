@@ -9,6 +9,7 @@ document.write('\
     <div class="testimonial-left"> \
     </div> \
     <div class="testimonial-right"> \
+<p> (2018.09.19) Our paper about the Mercury walking controller is accepted in Humanoid 2018.</p>\
 <p> (2018.09.04) Our paper about the viscoelastic liquid-cooled actuator is accepted in Transactions on Mechatronics.</p>\
 <p> (2018.06.29) Our two IROS 2018 papers are accepted.</p>\
 <p> (2018.06.20) TMech paper about Draco P1 is resubmitted. </p>\
