@@ -7,7 +7,10 @@ document.write('\
     <div class="publication-left"> </div> \
     <div class="publication-right"> \
     <h5>Journal</h5> \
-    <h4>Stabilizing Series-Elastic Point-Foot Bipeds Using Whole-Body Operational Space Control</h4> \
+    <h4>Investigations of a Robotic Testbed with Viscoelastic Liquid Cooled Actuators </h4> \
+    <p> <font color="olive">Donghyun Kim</font>, J. Ahn, O. Campbell, N. Paine, L. Sentis, in Transaction on Mechatronics, 2018. <a href="papers/TMech_2018.pdf"> \[Paper]</a> </p> \
+    \
+     <h4>Stabilizing Series-Elastic Point-Foot Bipeds Using Whole-Body Operational Space Control</h4> \
     <p> [Finalist, Best WBC paper 2016] [Finalist, Best WBC-Video 2016] </p> \
     <p> <font color="olive">Donghyun Kim</font>, Ye Zhao, Gray Thomas, Benito Fernandez, Luis Sentis, in Transaction on Robotics, 2016. <a href="papers/tro.pdf"> \[Paper]</a> </p> \
     \
