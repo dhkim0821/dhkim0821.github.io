@@ -9,7 +9,10 @@ document.write('\
     <div class="testimonial-left"> \
     </div> \
     <div class="testimonial-right"> \
-<p> (2018.10.01) I attended IROS 2017 in Madrid, Spain. </p>\
+<p> (2019.01.16) New postdoc starts in MIT, Cambridge. </p>\
+<p> (2018.11.14) I gave a talk in Sookmyung University, Seoul, Korea. </p>\
+<p> (2018.11.06) I attended Humanoid 2018 in Beijing, China. </p>\
+<p> (2018.10.01) I attended IROS 2018 in Madrid, Spain. </p>\
 <p> (2018.09.19) Our paper about the Mercury walking controller is accepted in Humanoid 2018.</p>\
 <p> (2018.09.04) Our paper about the viscoelastic liquid-cooled actuator is accepted in Transactions on Mechatronics.</p>\
 <p> (2018.06.29) Our two IROS 2018 papers are accepted.</p>\
