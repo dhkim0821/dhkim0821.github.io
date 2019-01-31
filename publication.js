@@ -20,6 +20,12 @@ document.write('\
     \
     <br\> \
     <h5>Peer Reviewed Conference Proceeding</h5>\
+    <h4>Computationally-Robust and Efficient Prioritized Whole-Body Controller with Contact Constraints </h4> \
+    <p> <font color="olive">Donghyun Kim</font>, Jaemin Lee, Junhyeok Ahn, Orion Campbell, Hochul Hwang, and Luis Sentis, International Conference on Intelligent Robots and Systems (IROS), 2018. <a href="papers/2018_IROS_WBDC.pdf"> [Paper]</a> </p> \
+    \
+    <h4>Fast Kinodynamic Bipedal Locomotion Planning with Moving Obstacles</h4> \
+    <p> Junhyeok Ahn, Orion Campbell, <font color="olive">Donghyun Kim</font>, and Luis Sentis, International Conference on Intelligent Robots and Systems (IROS), 2018. <a href="papers/2018_IROS_Planning.pdf"> [Paper]</a> </p> \
+    \
     <h4>Investigations of Viscoelastic Liquid Cooled Actuators Applied for Dynamic Motion Control of Legged Systems </h4> \
     <p> <font color="olive">Donghyun Kim</font>, Orion Campbell, Junhyeok Ahn, Luis Sentis, Nicholas Paine, International Conference of Humanoid Robots, 2017. <a href="papers/vlca_humanoid_2017.pdf"> [Paper]</a> </p> \
     \
@@ -53,6 +59,9 @@ document.write('\
     \
     <br\> \
     <h5> Preprint </h5>\
+    <h4>Dynamic Locomotion For Passive-Ankle Biped Robots And Humanoids Using Whole-Body Locomotion Control</h4> \
+    <p> <font color="olive">Donghyun Kim</font>, Steven Jorgensen, Jaemin Lee, Junhyeok Ahn, Jianwen Luo, and Luis Sentis, in arXiv, 2019. <a href="papers/arxiv_mercury.pdf"> \[Paper]</a> </p> \
+    \
     <h4>Assessing Whole-Body Operational Space Control in a Point-Foot Series Elastic Biped: Balance on Split Terrain and Undirected Walking</h4> \
     <p> <font color="olive">Donghyun Kim</font>, Ye Zhao, Gray Thomas, Luis Sentis, in arXiv, 2015. <a href="papers/arxiv_wbosc_hume.pdf"> \[Paper]</a> </p> \
     \
