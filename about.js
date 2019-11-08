@@ -32,7 +32,10 @@ document.write('\
     \
     </div> \
     <iframe width="360" height="310" \
-    src="https://www.youtube.com/embed/EEcQRkTLqbk"> \
+    src="https://www.youtube.com/embed/6JlVol3eyNI"> \
+    </iframe>  \
+    <iframe width="360" height="310" \
+    src="https://www.youtube.com/embed/YxYsnwep8dI"> \
     </iframe>  \
     <iframe width="360" height="310" \
     src="https://www.youtube.com/embed/4RNTXTACApw" > \
@@ -46,10 +49,7 @@ document.write('\
     <iframe width="360" height="310" \
     src="https://www.youtube.com/embed/_Cfj6Ohagmo" > \
     </iframe>  \
-    <iframe width="360" height="310" \
-    src="https://www.youtube.com/embed/Sa1UutlIR6s" > \
-    </iframe>  \
-      </div>\
+     </div>\
     </div> \
     </div> \
 ')
