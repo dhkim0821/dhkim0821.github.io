@@ -17,7 +17,7 @@ document.write('\
     <div class="col-md-5 contact-left"> \
     <div class="address wow fadeInLeft animated" data-wow-delay=".5s"> \
     <h5>Address:</h5> \
-    <p><i class="glyphicon glyphicon-home"></i> 204 E Dean Keeton St, Austin, TX 78712 </p> \
+    <p><i class="glyphicon glyphicon-home"></i> 77 Massachusetts Avenue, Room 5-017, Cambridge, MA, 02138 </p> \
     </div> \
     <div class="address address-mdl wow fadeInLeft animated" data-wow-delay=".5s"> \
     <h5>Phones:</h5> \
@@ -25,7 +25,7 @@ document.write('\
     </div> \
     <div class="address wow fadeInLeft animated" data-wow-delay=".5s"> \
     <h5>Email:</h5> \
-    <p><i class="glyphicon glyphicon-envelope"></i> <a href="mailto:alex.d.kim0821@gmail.com">alex.d.kim0821@gmail.com</a></p> \
+    <p><i class="glyphicon glyphicon-envelope"></i> <a href="mailto:robot.dhkim@gmail.com">robot.dhkim@gmail.com</a></p> \
     </div> \
     </div> \
     <div class="clearfix"></div> \
