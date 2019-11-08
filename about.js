@@ -31,21 +31,27 @@ document.write('\
     <!-- //Change This Sentence --> \
     \
     </div> \
+    <!-- //Cheetah Running --> \
     <iframe width="360" height="310" \
     src="https://www.youtube.com/embed/6JlVol3eyNI"> \
     </iframe>  \
+    <!-- //Mercury IJRR --> \
     <iframe width="360" height="310" \
     src="https://www.youtube.com/embed/YxYsnwep8dI"> \
     </iframe>  \
+    <!-- //Cheetah Vision --> \
+    <iframe width="360" height="310" \
+    src="https://www.youtube.com/embed/tZfow8FE1jY" > \
+    </iframe>  \
+    <!-- //Draco P1 --> \
     <iframe width="360" height="310" \
     src="https://www.youtube.com/embed/4RNTXTACApw" > \
     </iframe>  \
+    <!-- //WBDC --> \
     <iframe width="360" height="310" \
     src="https://www.youtube.com/embed/3uc_p-6tzLg" > \
     </iframe>  \
-    <iframe width="360" height="310" \
-    src="https://www.youtube.com/embed/C5MzNbl-CkI" > \
-    </iframe>  \
+    <!-- //Reinforcement Learning --> \
     <iframe width="360" height="310" \
     src="https://www.youtube.com/embed/_Cfj6Ohagmo" > \
     </iframe>  \
