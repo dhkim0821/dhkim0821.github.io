@@ -6,7 +6,7 @@ document.write('\
     <div class="carousel-inner" role="listbox" style=" width:100%; height: 100% !important;"> \
     <div class="publication-left"> </div> \
     <div class="publication-right"> \
-    <h5>Journal</h5> \
+    <h5>Journals</h5> \
     <h4>Investigations of a Robotic Testbed with Viscoelastic Liquid Cooled Actuators </h4> \
     <p> <font color="olive">Donghyun Kim</font>, J. Ahn, O. Campbell, N. Paine, L. Sentis, in Transaction on Mechatronics, 2018. <a href="papers/TMech_2018.pdf"> \[Paper]</a> </p> \
     \
@@ -19,7 +19,7 @@ document.write('\
     \
     \
     <br\> \
-    <h5>Peer Reviewed Conference Proceeding</h5>\
+    <h5>Peer Reviewed Conference Proceedings</h5>\
     <h4>Computationally-Robust and Efficient Prioritized Whole-Body Controller with Contact Constraints </h4> \
     <p> <font color="olive">Donghyun Kim</font>, Jaemin Lee, Junhyeok Ahn, Orion Campbell, Hochul Hwang, and Luis Sentis, International Conference on Intelligent Robots and Systems (IROS), 2018. <a href="papers/2018_IROS_WBDC.pdf"> [Paper]</a> </p> \
     \
@@ -46,7 +46,7 @@ document.write('\
     \
     \
     <br\> \
-    <h5>Abstract and Poster</h5>\
+    <h5>Abstracts and Posters</h5>\
     <h4>Whole-Body Opertation Space Control: Undirectional Walking of a Point-Foot Series Elastic Biped</h4> \
     <p> <font color="olive">Donghyun Kim</font>, Ye Zhao, Gray Thomas, Luis Sentis, Dynamic Walking, 2015. <a href="papers/DW15Abstract.pdf"> \[Paper]</a> \
     \
@@ -58,7 +58,7 @@ document.write('\
     \
     \
     <br\> \
-    <h5> Preprint </h5>\
+    <h5> Preprints </h5>\
     <h4>Dynamic Locomotion For Passive-Ankle Biped Robots And Humanoids Using Whole-Body Locomotion Control</h4> \
     <p> <font color="olive">Donghyun Kim</font>, Steven Jorgensen, Jaemin Lee, Junhyeok Ahn, Jianwen Luo, and Luis Sentis, in arXiv, 2019. <a href="papers/arxiv_mercury.pdf"> \[Paper]</a> </p> \
     \
