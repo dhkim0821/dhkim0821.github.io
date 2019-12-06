@@ -6,7 +6,7 @@ document.write('\
     <div class="col-md-7 contact-right wow fadeInRight animated" data-wow-delay=".5s"> \
     <h5>Miscellaneous information:</h5> \
     <p>Please send a message if you have further questions </p> \
-    <form action="mailto:alex.d.kim0821@gmail.com" method="post">  \
+    <form action="mailto:humanoid@mit.edu" method="post">  \
     <input type="text" name="Name" placeholder="Name" required=""> \
     <input type="text" class="email" name="Email" placeholder="Email" required=""> \
     <input type="text" name="Phone no" placeholder="Phone" required=""> \
