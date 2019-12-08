@@ -25,7 +25,7 @@ document.write('\
     </div> \
     <div class="address wow fadeInLeft animated" data-wow-delay=".5s"> \
     <h5>Email:</h5> \
-    <p><i class="glyphicon glyphicon-envelope"></i> <a href="mailto:robot.dhkim@gmail.com">robot.dhkim@gmail.com</a></p> \
+    <p><i class="glyphicon glyphicon-envelope"></i> <a href="mailto:humanoid@mit.edu">humanoid@mit.edu</a></p> \
     </div> \
     </div> \
     <div class="clearfix"></div> \
