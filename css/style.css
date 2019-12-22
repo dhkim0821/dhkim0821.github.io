@@ -411,7 +411,7 @@ p {
 .about-left {
     background: #ececec;
     padding: 2.5em;
-    width: 63%;
+    width: 95%;
     margin-right: 2em;
 	border: 1px solid #01b6f3;
 }
@@ -427,7 +427,7 @@ p {
     padding-left: 0;
 }
 .about-img img {
-    width: 100%;
+    width: 50%;
 }
 .about h4 {
     color: #F44336;

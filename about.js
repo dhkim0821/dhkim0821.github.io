@@ -11,27 +11,21 @@ document.write('\
     <div class="col-md-8 col-sm-8 about-w3ls-text wow zoomInRight animated" data-wow-delay=".9s"> \
     \
     <!-- Change This Sentence --> \
-    <p>My research interests include agile locomotion, state estimation, and whole body control and optimal control of legged systems with real-time constraints.<\p>\
-    \
-    <p>To build a more robust and generic locomotion controller, I also study how to employ machine learning techniques such as Reinforcement Learning or Deep Neural Network to legged systems. </p> \
+    <p>I aspire to device robust and versatile legged robots capable of all-terrain mobility for service and emergency applications.\
+    I have focused on optimizing control algorithms to accomplish advanced dynamic locomotion. \
+    In the dynamic motion control, the role of control algorithms is crucial, \
+    but I also found the importance of understanding how the combination of hardware and control affects the limits of achievable behavior. \
+    To this end, my major aims are </p> \
+    <p> 1) to design a new control architecture that combines the benefits of model-based controllers and machine learning techniques to \
+    accomplish agile and autonomous mobility and </p> \
+    <p> 2) to create a unified framework to co-develop controller and hardware for maximizing the capability of legged robots.</p> \
+    <p> <a href="documents/Research_Statement.pdf"> [Research Statement] </a> </p> \
     <!-- //Change This Sentence --> \
     \
     </div> \
     <div class="clearfix"> </div> \
     </div> \
-    <div class="col-md-4 about-right w3-agileits wow slideInRight animated" data-wow-delay=".5s"> \
-    \
-    <!-- Change This Sentence --> \
-    <h4>Education</h4> \
-    <ul> \
-    <li><span class="glyphicon glyphicon-menu-right"></span>Received the B.S. degree in mechanical engineering from Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, in 2007.</li> \
-    <li><span class="glyphicon glyphicon-menu-right"></span>Received the M.S. degree in mechanical engineering from Seoul National University, Seoul, South Korea, in 2012. </li> \
-    <li><span class="glyphicon glyphicon-menu-right"></span>Received the Ph.D. degree in mechanical engineering from University of Texas at Austin, Austin, TX, USA, in 2017</li> \
-    </ul> \
-    <!-- //Change This Sentence --> \
-    \
-    </div> \
-    <!-- //Cheetah Running --> \
+   <!-- //Cheetah Running --> \
     <iframe width="360" height="310" \
     src="https://www.youtube.com/embed/6JlVol3eyNI"> \
     </iframe>  \
