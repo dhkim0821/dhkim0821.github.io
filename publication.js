@@ -20,6 +20,9 @@ document.write('\
     \
     <br\> \
     <h5>Peer Reviewed Conference Proceedings</h5>\
+    <h4>Vision Aided Dynamic Exploration of Unstructured Terrain with a Small-Scale Quadruped Robot</h4> \
+    <p> <font color="olive">Donghyun Kim</font>, Daniel Carballo, Jared Di Carlo, Benjamine Katz, Gerardo Bledt, Bryan Lim, and Sangbae Kim, International Conference on Robotics and Automation (ICRA), 2020. <a href="papers/2020_ICRA_Vision.pdf"> [Paper]</a> </p> \
+    \
     <h4>Bi-Modal Hemispherical Sensor: A Unifying Solution for Three Axis Force and Contact Angle Measurement</h4> \
     <p> Meng Yee Chuah, Lindsay Epstein, <font color="olive">Donghyun Kim</font>, Juan Romero, and Sangbae Kim, International Conference on Intelligent Robots and Systems (IROS), 2019. <a href="papers/2019_IROS_Sensor.pdf"> [Paper]</a> </p> \
     \
