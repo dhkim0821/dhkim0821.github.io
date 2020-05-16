@@ -9,6 +9,7 @@ document.write('\
     <div class="testimonial-left"> \
     </div> \
     <div class="testimonial-right"> \
+<p> (2020.04.23) I joined in College of Information and Computer Sciences at UMass Amherst as Assistant Professor. </p>\
 <p> (2019.10.23) I gave a presentation at University of Michigan, Ann Arbor. </p>\
 <p> (2019.10.10) I gave a presentation in the Robotics Seminar at University of Texas, Austin. </p>\
 <p> (2019.05.20) I attened ICRA 2019 in Montreal. </p>\
