@@ -13,7 +13,7 @@ document.write('\
   <h4>Robust Bipedal Locomotion Based on a Hierarchical Control Structure</h4> \
   <p> Jianwen Luo, Yao Su, Lecheng Ruan, Ye Zhao, <font color="olive"> Donghyun Kim</font>, Luis Sentis, and Chenglong Fu. Robotica, 2019. <a href="papers/robotica_biped.pdf"> \[Paper]</a> </p>\
   \
-  <h4>Investigations of a Robotic Testbed with Viscoelastic Liquid Cooled Actuators </h4> \
+  <h4>Investigations of a Robotic Testbed with Viscoelastic Liquid Cooled Actuators <font color="salmon">[Best Paper Award]</font></h4> \
   <p> <font color="olive">Donghyun Kim</font>, J. Ahn, O. Campbell, N. Paine, L. Sentis, Transaction on Mechatronics, 2018. <a href="papers/TMech_2018.pdf"> \[Paper]</a> </p> \
   \
   <h4>Stabilizing Series-Elastic Point-Foot Bipeds Using Whole-Body Operational Space Control</h4> \
