@@ -8,7 +8,7 @@ document.write('\
   <div class="publication-right"> \
   <h5>Journals</h5> \
   <h4>Dynamic Locomotion For Passive-Ankle Biped Robots And Humanoids Using Whole-Body Locomotion Control</h4> \
-  <p> <font color="olive">Donghyun Kim</font>, Steven Jorgensen, Jaemin Lee, Junhyeok Ahn, Jianwen Luo, and Luis Sentis, International Journal of Robotics and Research, accpeted 2020. <a href="papers/ijrr_mercury.pdf"> \[Paper]</a> </p> \
+  <p> <font color="olive">Donghyun Kim</font>, Steven Jorgensen, Jaemin Lee, Junhyeok Ahn, Jianwen Luo, and Luis Sentis, International Journal of Robotics and Research, accpeted 2020. <a href="papers/2020_IJRR.pdf"> \[Paper]</a> </p> \
   \
   <h4>Robust Bipedal Locomotion Based on a Hierarchical Control Structure</h4> \
   <p> Jianwen Luo, Yao Su, Lecheng Ruan, Ye Zhao, <font color="olive"> Donghyun Kim</font>, Luis Sentis, and Chenglong Fu. Robotica, 2019. <a href="papers/robotica_biped.pdf"> \[Paper]</a> </p>\
