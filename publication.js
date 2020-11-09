@@ -58,7 +58,7 @@ document.write('\
   <p> <font color="olive">Donghyun Kim</font>, Gray Thomas, Luis Sentis, 13th International Conference on Control, Automation, Robotics & Vision (ICARCV 2014) <a href="papers/ICARCV_2014_Hume.pdf"> [Paper]</a> </p> \
   \
   <h4>Empirical Modifications to a Phase Space Planner Which Compensates for Low Stiffness Actuation in a Planar, Point-foot, Biped Robot</h4> \
-  <p><font color="olive"> Donghyun Kim</font>, Ye Zhao, Gray Thomas, Proceedings of the ASME 2014 Dynamic Systems and Control Conference (DSCC 2014) <a href="papers/DSCC_2014_Hume.pdf"> [Paper]</a>  </p> \
+  <p><font color="olive"> Donghyun Kim</font>, Ye Zhao, Gray Thomas, Luis Sentis, Proceedings of the ASME 2014 Dynamic Systems and Control Conference (DSCC 2014) <a href="papers/DSCC_2014_Hume.pdf"> [Paper]</a>  </p> \
   \
   <h4>Phase Space Planning and Robust Control for Data-Driven Locomotion Behaviors</h4> \
   <p> Ye Zhao, <font color="olive">Donghyun Kim</font>, Benito Fernandez, Luis Sentis, International Conference of Humanoid Robots, 2013. <a href="papers/2013_humanoid.pdf"> [Paper]</a> </p> \
