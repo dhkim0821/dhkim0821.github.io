@@ -20,6 +20,7 @@ document.write('\
     accomplish agile and autonomous mobility and </p> \
     <p> 2) to create a unified framework to co-develop controller and hardware for maximizing the capability of legged robots.</p> \
     <p> <a href="documents/Research_Statement.pdf"> [Research Statement] </a> </p> \
+    <p> <a href="documents/DHKim_CV_20241206.pdf"> [CV] </a> </p> \
     <!-- //Change This Sentence --> \
     \
     </div> \
